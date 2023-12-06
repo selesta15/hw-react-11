@@ -1,0 +1,35 @@
+
+.header-icon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 20px;
+
+}
+
+.icon-container {
+   margin-right: 20px;
+   display: flex;
+   align-items: center;
+   
+
+}
+.icon-spacing {
+    display: inline;
+    text-align: center;
+    margin-right: 30px;
+    margin-left: 30px;
+
+}
+.user {
+ display: flex;
+ align-items: center;
+ justify-content: space-between;
+ margin: 20px;
+}
+
+.input{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
